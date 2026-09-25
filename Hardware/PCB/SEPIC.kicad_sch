@@ -9870,7 +9870,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "BZX84:SOT-23"
 			(at 60.96 41.91 0)
 			(hide yes)
 			(show_name no)

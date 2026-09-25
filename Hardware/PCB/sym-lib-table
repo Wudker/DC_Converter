@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "AO3401A") (type "KiCad") (uri "${KIPRJMOD}/AO3401A/KiCad/AO3401A.kicad_sym") (options "") (descr ""))
+	(lib (name "BZX84-A10_215") (type "KiCad") (uri "${KIPRJMOD}/BZX84-A10,215/KiCad/BZX84-A10_215.kicad_sym") (options "") (descr ""))
+)
