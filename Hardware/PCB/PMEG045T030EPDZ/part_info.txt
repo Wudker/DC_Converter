@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=PMEG045T030EPDZ
+PartCategory=Schottky Diode
+PackageCategory=Other
+PinCount=3
+Version=3.3
+Released=2023-04-04 07:22:43
+Downloaded=2026-10-01 10:17:01
+3D=Y
