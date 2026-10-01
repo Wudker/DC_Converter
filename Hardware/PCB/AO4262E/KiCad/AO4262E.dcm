@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AO4262E
+D Trans MOSFET N-CH 60V 16.5A 8-Pin SOIC T/R
+K
+F http://aosmd.com/res/data_sheets/AO4262E.pdf
+$ENDCMP
+#
+#End Doc Library
