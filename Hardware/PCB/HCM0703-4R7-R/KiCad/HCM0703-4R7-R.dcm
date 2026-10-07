@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HCM0703-4R7-R
+D Inductor Power Shielded Wirewound 4.7uH/2.8uH 20% 100KHz Powdered Iron 5.5A 40mOhm DCR T/R
+K
+F https://componentsearchengine.com/Datasheets/2/HCM0703-4R7-R.pdf
+$ENDCMP
+#
+#End Doc Library

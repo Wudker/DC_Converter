@@ -7023,7 +7023,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "4.7u"
 			(at 107.95 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7034,7 +7034,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Vishay_IHLP-2020"
+		(property "Footprint" "HCM0703-4R7-R:INDPM7166X300N"
 			(at 106.68 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -8546,7 +8546,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "4.7u"
 			(at 96.52 86.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8557,7 +8557,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Vishay_IHLP-2020"
+		(property "Footprint" "HCM0703-4R7-R:INDPM7166X300N"
 			(at 95.25 85.09 0)
 			(hide yes)
 			(show_name no)

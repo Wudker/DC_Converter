@@ -1,0 +1,9 @@
+Manufacturer=Eaton
+PartNumber=DR127-100-R
+PartCategory=Inductor
+PackageCategory=Inductors Precision Moulded
+PinCount=2
+Version=2.1
+Released=2023-09-18 05:47:43
+Downloaded=2026-10-07 20:49:09
+3D=Y

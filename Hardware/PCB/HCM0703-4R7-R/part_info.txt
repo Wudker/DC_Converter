@@ -1,0 +1,9 @@
+Manufacturer=Eaton
+PartNumber=HCM0703-4R7-R
+PartCategory=Inductor
+PackageCategory=Inductors Precision Moulded
+PinCount=2
+Version=1.1
+Released=2022-09-15 03:29:58
+Downloaded=2026-10-07 21:21:09
+3D=Y
